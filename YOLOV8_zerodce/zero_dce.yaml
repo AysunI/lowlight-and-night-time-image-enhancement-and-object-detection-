@@ -1,0 +1,8 @@
+path: /jupyter/work/Exdark/DATA_zerodce 
+
+train: train/images
+val: val/images
+test: test/images 
+
+nc: 12
+names: ['Bicycle','Boat','Bottle','Bus','Car','Cat','Chair','Cup','Dog','Motorbike','People','Table']
